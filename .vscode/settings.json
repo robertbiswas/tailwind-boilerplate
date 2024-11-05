@@ -1,0 +1,10 @@
+{
+	"css.validate": false,
+	"tailwindCSS.emmetCompletions": true,
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#382B16",
+		"titleBar.activeBackground": "#4E3D1E",
+		"titleBar.activeForeground": "#FDFBF9"
+	},
+	"liveServer.settings.port": 5501
+}
